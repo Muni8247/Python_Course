@@ -1,0 +1,13 @@
+price=10
+rating=4.9
+name="Muni"
+is_name=False
+print(type(price))
+price=20
+print(20)
+print(rating)
+print(type(rating))
+print(name)
+print(type(name))
+print(is_name)
+print(type(is_name))
