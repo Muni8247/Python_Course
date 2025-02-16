@@ -1,4 +1,0 @@
-langchain
-numpy
-pillow
-pygame
