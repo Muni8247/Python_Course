@@ -1,0 +1,9 @@
+l1=[1,4,8,10,12,14]
+l2=["Muni","Naga","Reddy","Kati"]
+l3=[10,"Muni",10.5,True]
+print(l1)
+print(l2)
+print(l3)
+print(type(l1))
+print(type(l2))
+print(type(l3))
