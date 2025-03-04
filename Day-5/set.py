@@ -1,0 +1,9 @@
+s1={1,20,30,40}
+print(s1)
+print(type(s1))
+se2={1,2,3,1,2,10,30,10}
+print(se2)
+s1.add(100)
+print(s1)
+se2.add(200)
+print(se2)
